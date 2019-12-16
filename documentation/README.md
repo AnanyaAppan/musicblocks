@@ -409,6 +409,8 @@ More details about all of the widgets are available in the
 A Summary of the Palette
 ---------------------
 
+* Beginner mode
+
 | Palette | Block                  |
 | --------|----------------------- |
 | Rhythm  | note                   |
@@ -469,6 +471,35 @@ A Summary of the Palette
 |         | rhythm                 |
 |         | simple tuplet          |
 
+* Additions in Advanced Mode
+
+
+| Palette | Block                  |
+| --------|----------------------- |
+| Rhythm  | note value sol 4 ,note value G4 ,note value +1,note value 5 4,note value 7        |
+|         | note value 392 hertz, dot, multiplicity note value, skipnotes ,swing ,milliseconds|
+| Meter   | pickup ,on strong beat,on weak beat do ,no clock ,whole notes played              |
+|         | note counter,measure count, beat factor, current meter                            |
+| Pitch   | scale degree, sharp, flat, accidental, unison, second, third, sixth, seventh      |
+|         | down third, down sixth, ocatve, semi-tone transpose, register, invert, sol, G     |
+|         | sargam, accidental, number to octave, number to pitch, set pitch number offset    |
+|         | MIDI                                                                              |
+|Intervals| current key, current mode, define mode, scalar interval (+/-), unison, second     |
+|         | fourth, fifth, seventh, down third, down sixth, semi tone interval (+/-) ,        |
+|         | major (2,3,6,7), down major 3, down major 6, minor (2,3,6,7),down minor 3,        |
+|         | down minor 6, perfect 4, perfect 5, perfect 8 ,augmented (1,2,3,4,5,6,7,8)        |
+|         | diminished (2,3,4,5,6,7,8), scalar interval measure, semi-tone interval measure   |
+|         | interval name, doubly                                                             |
+|Tone     | voice name, phaser, distortion, harmonic, weighted partials, partial, FM synth    |
+|         | AM synth, duo synth                                                               |
+|Volume   | set relative volume, fff, ff, f, mf, mp, p, pp, ppp, master volume                |
+|Drum     | map pitch to drum, snare drum, kick drum, floor, tom, cup drum, darbuka drum      |
+|         | hi hat, triangle bell, finger cymbals, ride bell, cow bell, tom tom, crash, slap  |
+|         | clap, clang, chime, bubbles, bottle, dog, cricket, cat, duck, noise, effect, drum |
+|         | noisename                                                                         |
+|Widgets  | pitch staircase ,chromatic keyboard, pitch-drum mapper, meter, timbre, temperament|
+|         | triplet, quintoplet, septuplet, tuplet, whole note, half note, quarter note       |
+|         | 1/16 note, 1/32 note, 1/64 note                                                   |
 
 Creating help artwork
 ---------------------
