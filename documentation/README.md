@@ -406,6 +406,70 @@ the chunk in the clamp of the *Pitch-time Marix* block.
 More details about all of the widgets are available in the
 [Music Blocks Programming Guide](http://rawgithub.com/sugarlabs/musicblocks/tree/master/guide/README.md).
 
+A Summary of the Palette
+---------------------
+
+| Palette | Block                  |
+| --------|----------------------- |
+| Rhythm  | note                   |
+|         | note value drum        |
+|         | silence                |
+|         | tie                    |
+|         | note value             |
+| Meter   | meter                  |
+|         | beats per minute       |
+|         | master beats per minute|
+|         | on every note do       |
+|         | notes played           |
+|         | beat count             |
+|Pitch    | pitch                  |
+|         | pitch G4               |
+|         | scalar step            |
+|         | pitch number           |
+|         | hertz                  |
+|         | fourth                 |
+|         | fifth                  |
+|         | pitch in hertz         |
+|         | pitch in number        |
+|         | scalar change in pitch |
+|         | change in pitch        |
+|Intervals| set key                |
+|         | mode length            |
+|         | moveable Do            |
+|         | third                  | 
+|         | sixth                  |
+|         | chord I                |
+|         | chord IV               |
+|         | chord V                |
+|         | set temperament        |
+|Tone     | set instrument         |
+|         | vibrato                |
+|         | chorus                 |
+|         | tremolo                |
+|Ornament | staccato               |
+|         | slur                   |
+|         | neighbour (+/-)        |
+|Volume   | crescendo              |
+|         | decrescendo            |
+|         | set master volume      |
+|         | set synth volume       |
+|         | set drum volume        |
+|Drum     | drum                   |
+|         | sound affect           |
+|         | set drum               |
+|Widgets  | status                 |
+|         | phrase maker           |
+|         | C major scale          |
+|         | G major scale          |
+|         | rhythm maker           |
+|         | music keyboard         |
+|         | pitch slider           |
+|         | tempo                  |
+|         | custom mode            |
+|         | rhythm                 |
+|         | simple tuplet          |
+
+
 Creating help artwork
 ---------------------
 
